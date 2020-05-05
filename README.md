@@ -1,4 +1,5 @@
-## Submission repository for Project Charity ML
+## ReSubmission repository for Project Charity ML
+2nd submission.
 
 ### Student details
 Rishi Sukul
@@ -13,3 +14,4 @@ Please find the notebook and html download in the folder:
 - anaconda: 3
 - OS: Mac 2016
 - RAM: 8 GB
+
